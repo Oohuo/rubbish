@@ -26,14 +26,14 @@
 
   ***拼接***
 
-  -轻度繁体字-
-  https://nmsl.shadiao.app/./api.php?level=min&lang=zh_hk
-  -重度繁体字-
-  https://nmsl.shadiao.app/./api.php?level=max&lang=zh_hk
-  -轻度简体字-
-  https://nmsl.shadiao.app/./api.php?level=min&lang=zh_cn
-  -重度简体字
-  https://nmsl.shadiao.app/./api.php?level=max&lang=zh_cn
+ - -轻度繁体字-
+  `https://nmsl.shadiao.app/./api.php?level=min&lang=zh_hk`
+ - -重度繁体字-
+  `https://nmsl.shadiao.app/./api.php?level=max&lang=zh_hk`
+ - -轻度简体字-
+  `https://nmsl.shadiao.app/./api.php?level=min&lang=zh_cn`
+ - -重度简体字
+  `https://nmsl.shadiao.app/./api.php?level=max&lang=zh_cn`
 
 
 
