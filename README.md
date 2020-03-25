@@ -37,23 +37,17 @@
 
 
 
-[![Watch the video](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)
+[![Watch the video](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)(http://img.oohuo.com/Fh__mZcJ6RY_8v1Gs31jGfBR-f5Y)
 
 
 
 
 
-> Tips
+> 提示
 
-- 
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
+- 暂时只能用于对局结束以及<s>正常聊天</s>
+- 游戏内失效(LOL)
+- 可用于一系列通讯软件,不受限制
 
 
 ---
