@@ -1,4 +1,4 @@
-<a href="https://github.com/Oohuo/rubbish"><img src="http://img.oohuo.com/Fh__mZcJ6RY_8v1Gs31jGfBR-f5Y" /></a>
+![]<img src="http://img.oohuo.com/Fh__mZcJ6RY_8v1Gs31jGfBR-f5Y" /></a>
 
 
 
