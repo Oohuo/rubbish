@@ -37,8 +37,7 @@
 
 
 
-[![Watch the video](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)](http://img.oohuo.com/League%20of%20Legends%202020-03-25%2012-09-20.mp4)(http://img.oohuo.com/Fh__mZcJ6RY_8v1Gs31jGfBR-f5Y)
-
+![](http://img.oohuo.com/FpY32sKBner0mmFuGaGbRRiHWSWc)
 
 
 
