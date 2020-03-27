@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="424f8653-50ea-4307-9b0b-b3064f42e5ac" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DoInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rubbish/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rubbish/com/company/test6JavaJdbc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Crawling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Crawling.java" afterDir="false" />
-    </list>
+    <list default="true" id="424f8653-50ea-4307-9b0b-b3064f42e5ac" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +157,7 @@
       <workItem from="1585036979999" duration="8272000" />
       <workItem from="1585106412348" duration="2714000" />
       <workItem from="1585279273761" duration="1492000" />
-      <workItem from="1585283990293" duration="3222000" />
+      <workItem from="1585283990293" duration="3820000" />
     </task>
     <servers />
   </component>
