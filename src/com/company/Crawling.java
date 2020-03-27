@@ -18,8 +18,8 @@ public class Crawling {
         String driver = "com.mysql.jdbc.Driver";
         //这里我的数据库是cgjr
         String url = "jdbc:mysql://localhost:3306/zanghua?useUnicode=true&characterEncoding=utf-8&useSSL=false";
-        String user = "oohuo";
-        String password = "990922";
+        String user = "";
+        String password = "";
         try {
             Class.forName(driver);
             con = DriverManager.getConnection(url, user, password);
@@ -60,13 +60,15 @@ public class Crawling {
                 }
             }*/
 
-            for (int i=0;i<1000;i++){
+
+            for (int i=0;i<1500;i++){
                 try {
-                    sleep(2000);
-                    String url_Words = HttpRequest.sendPost("https://nmsl.shadiao.app/./api.php?level=max&lang=zh_cn", null);
-                    System.out.println(url_Words);
+                    sleep(50);
+                    String url_Words = HttpRequest.sendPost("https://nmsl.shadiao.app/api.php", null);
+                    //System.out.println(url_Words);
                     String sql2 = "Insert into " + "lajihuamax" + " (msg)" + "values" + "('" + url_Words + "')";
-                    System.out.println(sql2);
+
+                    System.out.println(sql2+"***"+i);
                     statement.executeUpdate(sql2);
 
                 } catch (Exception e) {
